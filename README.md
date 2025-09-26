@@ -1,6 +1,6 @@
-<img width="904" height="212" alt="Screenshot From 2025-09-26 12-31-37" src="https://github.com/user-attachments/assets/cea0ec45-aae5-4590-abb7-457005358bba" /><img width="904" height="212" alt="Screenshot From 2025-09-26 12-31-37" src="https://github.com/user-attachments/assets/dd67009f-392e-4b17-a915-9d86f4010dfc" /># CyberIntern-Task4
+# CyberIntern-Task4
 
-# Task 4-3-1: Firewall Setup and Usage
+
 
 ##  Objective
 Configure and test basic firewall rules to allow or block network traffic on Windows Firewall / UFW (Linux).
